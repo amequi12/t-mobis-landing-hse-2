@@ -1,0 +1,69 @@
+h1, .h1 {
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+h2, .h2 {
+  font-weight: 700;
+  font-size: 3.5rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+h3, .h3 {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+h4, .h4 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+h5, .h5, .accordion-header {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+a, a:visited {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  color: inherit !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+p, span {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  color: inherit !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+p.large {
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.text-orange {
+  color: var(--color-orange) !important;
+  stroke: var(--color-orange) !important;
+}
